@@ -34,16 +34,24 @@ This is a full-stack web application designed to simplify **income tax calculati
 - MongoDB running locally or use [MongoDB Atlas](https://www.mongodb.com/cloud/atlas)
 - VS Code or any preferred code editor
 
-Contributors
+### Contributors
 Thanks to the following people who have contributed to this project:
 
-Name	GitHub Username
+Name	        GitHub Username
 Contributor 	@VishvaAloka
+
+
 Contributor 	@CheharaWickaramasuriya
+
+
 Contributor 	@ravinduAG
+
+
 
 Want to contribute? Feel free to fork the repo and submit a pull request!
 
-📄 License
+### 📄 License
+
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
