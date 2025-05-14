@@ -37,7 +37,7 @@ This is a full-stack web application designed to simplify **income tax calculati
 ### Contributors
 Thanks to the following people who have contributed to this project:
 
-Name	        GitHub Username
+
 Contributor 	@VishvaAloka
 
 
